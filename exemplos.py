@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Sep 21 11:59:29 2022
-
 @author: CKT
 """
 
